@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Amir Hossein Habibi  
 
-💡 Full-stack developer with over 10 years of practical experience in **web and mobile development**.  
-I enjoy experimenting with new technologies, improving application performance, and designing clean and maintainable systems.  
+💡 Software developer with 10+ years of experience in web and mobile applications.
+Currently focusing on Node.js, JavaScript, and TypeScript, while bringing in past experience with PHP, Laravel, and cross-platform mobile frameworks.
+Interested in designing maintainable systems, improving performance, and learning modern technologies step by step.
 
 ---
 
