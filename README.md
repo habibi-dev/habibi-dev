@@ -6,7 +6,8 @@ I enjoy experimenting with new technologies, improving application performance, 
 ---
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habibi-dev/) [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/habibi_dev)  
+[![Gmail Badge](https://img.shields.io/badge/-habibi.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:habibi.dev@gmail.com)](mailto:habibi.dev@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habibi-dev/) [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/habibi_dev) 
+
 
 ---
 
