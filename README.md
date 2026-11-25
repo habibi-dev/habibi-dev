@@ -1,20 +1,27 @@
-Hi, I'm Amir Hossein Habibi 👋
+## Hi, I'm Amir Hossein Habibi 👋
 
-I'm a Software Engineer with 10+ years of experience in backend development, software architecture, and infrastructure.
+Software Engineer | Backend Development | PHP & Laravel | Infrastructure
 
-I primarily work with PHP and Laravel, building and maintaining backend systems and web applications. I'm also experienced in server administration, Linux environments, and deployment workflows.
+I'm a Software Engineer with 10+ years of experience in building web applications, backend systems, and managing software infrastructure.
 
-I'm particularly interested in software performance, system efficiency, scalability, and clean architecture. I enjoy understanding how systems work under the hood and finding practical ways to make them faster, more reliable, and easier to maintain.
+My primary focus is PHP, Laravel, and Backend Engineering. I enjoy designing reliable systems, writing maintainable code, and solving engineering problems related to performance, scalability, and system efficiency.
 
-🛠 Tech Stack
+I also have experience with server administration, Linux, Docker, and deployment workflows.
+
+Technical Skills
 
 Backend Development
 
-- PHP
-- Laravel
-- Node.js
-- TypeScript
-- RESTful APIs
+- PHP & Laravel
+- Node.js & TypeScript
+- RESTful API Design
+- Backend Architecture
+
+Databases
+
+- MySQL
+- MariaDB
+- MongoDB
 
 Infrastructure & DevOps
 
@@ -23,22 +30,15 @@ Infrastructure & DevOps
 - Nginx
 - Apache
 - Server Administration
-- Deployment & Infrastructure Management
+- Deployment & Server Management
 
-Databases
-
-- MySQL
-- MariaDB
-- MongoDB
-
-Frontend
+Frontend Development
 
 - JavaScript
 - React
-- HTML
-- CSS
+- HTML & CSS
 
-🎯 Areas of Interest
+Areas of Interest
 
 - Backend Engineering
 - Performance Optimization
@@ -46,14 +46,20 @@ Frontend
 - System Design
 - Scalable & Reliable Systems
 - Infrastructure & DevOps
-- Go and High-Performance Computing
+- Go and High-Performance Backend Development
 
-🌐 Connect
+Currently Exploring
 
-""Email" (https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white)" (mailto:habibi.dev@gmail.com)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)" (https://www.linkedin.com/in/habibi-dev/)
-""Telegram" (https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white)" (https://t.me/habibi_dev)
+- Backend performance and optimization techniques
+- Efficient system architecture
+- Go and its ecosystem for backend development
+
+Connect with Me
+
+- Email: "habibi.dev@gmail.com" (mailto:habibi.dev@gmail.com)
+- LinkedIn: "linkedin.com/in/habibi-dev" (https://www.linkedin.com/in/habibi-dev/)
+- Telegram: "@habibi_dev" (https://t.me/habibi_dev)
 
 ---
 
-Focused on building software that is efficient, maintainable, and reliable.
+Building software with a focus on performance, simplicity, and reliability.
